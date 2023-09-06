@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @d-dennislim
-- 👀 I’m interested in machine learning
+- 👀 I’m passionate in data engineering and machine learning
 - 🌱 I’m currently enrolled in a Data Science postgrad
 - 💞️ I’m looking to collaborate on data related projects
 - 📫 How to reach me: [LinkedIn](www.linkedin.com/in/d-dennislim)
